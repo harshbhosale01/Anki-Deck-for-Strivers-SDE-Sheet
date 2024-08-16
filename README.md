@@ -6,3 +6,4 @@ This repository contains a deck for [Strivers SDE sheet problems](https://takeuf
  - Recursion and Backtracking
  - Binary search
 
+Clone the repository and import the .apkg file into your Anki Deck software.
